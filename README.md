@@ -8,14 +8,23 @@
 
 ## My Practical Evidence
 
-### 1. Guided Exercises Output – Part 1
-![Guided Exercises Output – Part 1](Screenshots/ss1.jpeg)
+### 1. Exercise 01
+![Exercise 01](Screenshots/Ex01.png)
 
-### 2. Guided Exercises Output – Part 2
-![Guided Exercises Output – Part 2](Screenshots/ss2.jpeg)
+### 2. Exercise 02
+![Exercise 02](Screenshots/Ex02.png)
 
-### 3. Final Challenge Output (With Email)
-![Final Challenge Output (With Email)](Screenshots/ss3.jpeg)
+### 3. Exercise 03
+![Exercise 03](Screenshots/Ex03.png)
 
-### 4. Final Challenge Output (Without Email)
-![Final Challenge Output (Without Email)](Screenshots/ss4.jpeg)
+### 4. Exercise 04
+![Exercise 04](Screenshots/Ex04.png)
+
+### 5. Exercise 05
+![Exercise 05](Screenshots/Ex05.png)
+
+### 6. Exercise 06
+![Exercise 06](Screenshots/Ex06.png)
+
+### 7. Final Challenge
+![Final Challenge](Screenshots/Final%20Challenge.png)
