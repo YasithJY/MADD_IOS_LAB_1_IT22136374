@@ -3,7 +3,7 @@
 // Step 1 – Type Inference
 let studentName1 = "Kamal"
 let studentAge1 = 22
-let gpa1 = 3.65
+let gpa1 = 2.99
 let isRegistered1 = true
 
 print(type(of: studentName1))
@@ -14,7 +14,7 @@ print(type(of: isRegistered1))
 // Step 2 – Type Annotations
 let studentName2: String = "Kamal"
 let studentAge2: Int = 22
-let gpa2: Double = 3.65
+let gpa2: Double = 2.99
 let isRegistered2: Bool = true
 let grade2: Character = "A"
 
@@ -28,7 +28,7 @@ print(grade2)
 let studentID: String = "IT22136374"
 let studentName: String = "Yasith Jayasundara"
 let year: Int = 4
-let gpa: Double = 3.48
+let gpa: Double = 2.99
 var registeredStatus = true
 let grade: Character = "A+"
 

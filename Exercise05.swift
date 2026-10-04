@@ -20,6 +20,6 @@ print("The student received \(mark) marks for \(module).")
 let name = "Yasith Jayasundara"
 let year = 4
 let semester = 2
-let gpa = 3.48
+let gpa = 2.99
 
 print("\(name) is a Year \(year) Semester \(semester) student with a GPA of \(gpa).")

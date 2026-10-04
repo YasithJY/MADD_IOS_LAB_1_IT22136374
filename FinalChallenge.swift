@@ -6,7 +6,7 @@ let studentID = "IT22136374"
 let moduleCode = "SE4041"
 let assignmentMark = 79.0
 let examMark = 84.0
-var email: String? = "uvindumendis19@gmail.com"
+var email: String? = "janangayasith@gmail.com"
 
 // Part B – Calculate the Final Mark
 let finalMark = assignmentMark * 0.40 + examMark * 0.60
